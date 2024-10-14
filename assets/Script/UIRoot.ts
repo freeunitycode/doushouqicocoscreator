@@ -6,6 +6,11 @@ import { UIManager } from "./UIFrame/UIMgr";
 
 const { ccclass, property } = _decorator
 
+//Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
 
 /**
  * 应用从这里开始启动

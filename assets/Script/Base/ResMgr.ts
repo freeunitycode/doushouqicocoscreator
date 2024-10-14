@@ -2,6 +2,11 @@
 import { _decorator, Component, Node, js, Prefab, SpriteFrame, SpriteAtlas, AudioClip, sp, AssetManager, assetManager, error } from 'cc';
 import { splitFormName } from '../Utils/Utils';
 const { ccclass, property } = _decorator;
+//Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
 
 /**
  * 资源类型

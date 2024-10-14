@@ -9,6 +9,11 @@ export enum LogicEvent {
     //从子游戏返回大厅
     ENTER_HALL_FROM_GAMES = "ENTER_HALL_FROM_GAMES",
 }
+//Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
 
 export enum FBGameEventName {
     GAME_LOAD_COMPLETE = "GAME_LOAD_COMPLETE",                      // 加载完成

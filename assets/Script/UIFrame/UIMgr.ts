@@ -3,6 +3,11 @@ import { ResMgr } from "../Base/ResMgr";
 import { FormType, ModalOpacity } from "../Config/SysDefine";
 import { PriorityStake } from "../Utils/PriorityStake";
 import { ModalMgr } from "./ModalMgr";
+//Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
 
 // import { ModalMgr } from "./ModalMgr";
 import { UIBase } from "./UIBase";

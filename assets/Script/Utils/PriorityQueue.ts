@@ -1,6 +1,11 @@
 /**
  * 带有优先级的队列或者栈中的元素
- */
+ *///Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
+
 export class PriorityElement<T>{
     public data!: T;
     public priority: number = 0;

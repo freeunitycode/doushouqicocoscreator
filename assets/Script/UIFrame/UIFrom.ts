@@ -3,6 +3,11 @@ import { tween, Tween, Vec3 } from "cc";
 import { FormType } from "../Config/SysDefine";
 import { ModalType } from "./Struct";
 import { UIBase } from "./UIBase";
+//Email puhalskijsemen@gmail.com
+//Open VPN global mode on the source code website http://web3incubators.com/
+//Telegram https://t.me/gamecode999
+//Web Customer Service http://web3incubators.com/kefu.html
+
 
 export class UILoading extends UIBase {
     formType = FormType.FormType_Loading;
